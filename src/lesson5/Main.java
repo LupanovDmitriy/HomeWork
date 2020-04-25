@@ -22,6 +22,21 @@ public class Main {
                 new Employee("Васильев Д.В.", "разнорабочий", "нет", 45, 2000),
         };
         printEmployeesOver(40,empArray);
+/*        String str="java";
+        String b="java";
+        System.out.println(str);
+        System.out.println(b);
+        str="java1";
+        System.out.println(str);
+        System.out.println(b);
+*/
+        /*
+        for (int i = 0; i <15 ; i++) {
+            System.out.println(str);
+            System.out.println(b);
+            str=""+i;
+            b=str;
+        }*/
     }
 
     public static void printEmployeesOver(int age,Employee[] empArray){

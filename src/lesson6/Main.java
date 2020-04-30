@@ -31,6 +31,7 @@ public class Main {
         dog.jump(25);
 
         System.out.println("Всего животных "+Animal.getCount());
+        //
 
     }
 }
